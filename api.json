@@ -2,5 +2,6 @@
   "disabled": false,
   "disabledmessage": "Currently Disabled",
   "discordid":703033424541384784,
-  "invite":"https://discord.gg/proswapper"
+  "invite":"https://discord.gg/proswapper",
+  "requirePremium": true
 }
